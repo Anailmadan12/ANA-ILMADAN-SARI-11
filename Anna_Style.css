@@ -1,0 +1,49 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.0;
+    margin: 3;
+    padding: 0;
+    background: #07a505;
+}
+
+header {
+    background: #333333;
+    color: #13b205;
+    padding: 1rem;
+    text-align: center;
+}
+
+.profile-photo {
+    width: 50px;
+    border-radius: 20%;
+}
+
+h1, h2 {
+    margin: 0.5rem 0;
+}
+
+.section {
+    padding: 1rem;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #fff;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
